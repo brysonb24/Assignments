@@ -441,9 +441,9 @@ void GameOfLife::printWorld(string ofileName) {
 	myfile << " Course: CMPS 2143 - OOP " << endl;
 	myfile << " Program: Program P04 - Game of Life (John Conway) " << endl;
 	myfile << " " << endl;
-	myfile << " @author: Colton Boyd " << endl;
+	myfile << " @author: Bryson Brown " << endl;
 	myfile << " @version 1.1 10/15/18 " << endl;
-	myfile << " @github username: coltonboyd87" << endl << endl;
+	myfile << " @github username: brysonb24" << endl << endl;
 	myfile << " The 338th generation" << endl;
 
 	// Print to file
